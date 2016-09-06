@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_9fff9b30faf83309d51a332903efae04254dd70a.jar" />
+    </item>
+    <item
+        jar="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_4221dbc82fdb57b2d15684854ae1fcfa3e3b6e91.jar" />
+    </item>
+    <item
+        jar="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_d5cda06c95fbb704774041f5077afe5afdacbc2c.jar" />
+    </item>
+    <item
+        jar="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_59d9a24c371789ee1a6ee25f70914ea510024789.jar" />
+    </item>
+    <item
+        jar="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.0.0_7c6864882fbebef1d41e38659468c9834008c855.jar" />
+    </item>
+    <item
+        jar="/Users/mobilestyx/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_50d27297cb7c010b9a1a37cf0bd43cf137b3913b.jar" />
+    </item>
+    <item
+        jar="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_e3271cd12e5564ea6a7fc2e9b51351bdad401759.jar" />
+    </item>
+    <item
+        jar="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_c2eb8385297f4f8f05552520c61a855bcf2aa027.jar" />
+    </item>
+    <item
+        jar="/Users/mobilestyx/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_4c9a23cfcc5c20e68a5e3e55d5eee550910af11f.jar" />
+    </item>
+    <item
+        jar="/Users/mobilestyx/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/pre-dexed/debug/picasso-2.5.0_db355523678f865982c13d057a21403afa79d75b.jar" />
+    </item>
+    <item
+        jar="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/mobilestyx/Desktop/Demo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c41710b84ee3118bfb3898cf3746c1fd779523a2.jar" />
+    </item>
+
+</items>

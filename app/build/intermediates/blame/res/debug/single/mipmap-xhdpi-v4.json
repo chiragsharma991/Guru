@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/genie7/Documents/Demo/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/genie7/Documents/Demo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mobilestyx/Desktop/Demo/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/mobilestyx/Desktop/Demo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

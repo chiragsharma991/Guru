@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fl"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <FrameLayout
+        android:id="@+id/animation_layout_content"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:id="@+id/linearMain"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/transparent"
+            android:orientation="vertical" >
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/RelativeFront"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#ffffff"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/include1"
+                android:background="@drawable/bgblackborder"
+                android:orientation="vertical" >
+
+                <ScrollView
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" >
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent" >
+
+                        <RelativeLayout
+                            android:id="@+id/munimji_layouut"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginTop="30dp"
+                            android:background="@android:color/white" >
+
+                            <TextView
+                                android:id="@+id/textView1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:text="Guru Bhagwat"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textColor="#39A8FC" />
+
+                            <TextView
+                                android:id="@+id/textviewtitleformunjiname"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/imageviewformuniji"
+                                android:layout_centerHorizontal="true"
+                                android:layout_marginTop="15dp"
+                                android:text="Shiv Muni Ji Maharaj"
+                                android:textAppearance="?android:attr/textAppearanceMedium"
+                                android:textColor="#39A8FC" />
+
+                            <TextView
+                                android:id="@+id/munijiDescription"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentBottom="true"
+                                android:layout_below="@+id/textviewtitleformunjiname"
+                                android:layout_centerHorizontal="true"
+                                android:layout_margin="10dp"
+                                android:gravity="left"
+                                android:text="A paragraph (from the Greek paragraphos,  is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph has 5 types (Br. Anton Heitman). A paragraph consists of one or more sentences.[1][2] Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose." />
+
+
+                            <ImageView
+                                android:id="@+id/imageviewformuniji"
+                                android:layout_width="190dp"
+                                android:layout_height="190dp"
+                                android:layout_below="@+id/textView1"
+                                android:layout_centerHorizontal="true"
+                                android:layout_marginTop="10dp"
+
+                                />
+                        </RelativeLayout>
+
+
+
+                    </RelativeLayout>
+                </ScrollView>
+            </RelativeLayout>
+        </RelativeLayout>
+    </FrameLayout>
+
+</FrameLayout>
